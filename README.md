@@ -5,6 +5,8 @@ More info about Api.ai webhooks could be found here: Api.ai Webhook
 
 Deploy to:
 Deploy to Heroku
+https://heroku.com/deploy
+
 
 What does the service do?
 It's a weather information fulfillment service that uses Yahoo! Weather API. The services takes the geo-city parameter from the action, performs geolocation for the city and requests weather information from Yahoo! Weather public API.
